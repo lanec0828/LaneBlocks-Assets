@@ -1,5 +1,5 @@
 # LaneBlocks Assets
-Laneblocks server assets
+Laneblocks Assets for everything related to LaneBlocks
 
 
 © 2026 LaneBlocks™. All rights reserved.
